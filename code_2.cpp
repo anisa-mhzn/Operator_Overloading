@@ -1,4 +1,4 @@
-// relational operator overload
+// relational operator 
 #include<iostream>
 using namespace std;
 class Distance{
