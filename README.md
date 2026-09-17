@@ -14,9 +14,9 @@ This repository is created for learning, understanding, and practicing Operrator
 ## How to Run
 
 ### Compile<br>
-   - g++ Basic_operator_overload.cpp ~o Basic_operator_overload
+   - g++ Basic_operator_overload.cpp -o Basic_operator_overload
 ### Run
-   - ./Basic_operator_overload
+   - .\Basic_operator_overload
 
 ## Author
 **Anisha Maharjan**
